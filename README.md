@@ -1,4 +1,4 @@
-*# Stats*
+## Stats
 
 Petit repo de notebooks **Python** pour réviser / illustrer des notions de **statistiques & probabilités** (distributions + simulations).
 
