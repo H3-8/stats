@@ -1,6 +1,6 @@
 ## Stats
 
-Petit repo de notebooks **Python** pour réviser / illustrer des notions de **statistiques & probabilités** (distributions + simulations).
+Petit repo de notebooks **Python** pour réviser / illustrer des notions de **statistiques & probabilités** (distributions + simulations), avec des **datavisualisations** pour chaque loi (PMF/CDF/SF, PDF, quantiles, etc.).
 
 ## Contenu
 Ce dépôt contient des notebooks Jupyter centrés sur des distributions usuelles :
