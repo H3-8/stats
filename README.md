@@ -1,6 +1,6 @@
 ## Stats
 
-Petit repo de notebooks **Python** pour réviser / illustrer des notions de **statistiques & probabilités** (distributions + simulations), avec des **datavisualisations** pour chaque loi (PMF/CDF/SF, PDF, quantiles, etc.).
+Petit repo de notebooks **Python** pour jouer avec des notions de **stats & proba**. J’ai fait 2-3 trucs, c’est bon maintenant — **終わりだ (owari da)**.
 
 ## Contenu
 Ce dépôt contient des notebooks Jupyter centrés sur des distributions usuelles :
@@ -21,3 +21,4 @@ Les dépendances sont listées dans `requirements.txt` :
 1. Installer les dépendances :
    ```bash
    pip install -r requirements.txt
+   ```
